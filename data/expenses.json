@@ -1,0 +1,44 @@
+[
+  {
+    "Id": 1,
+    "Date": "2025-11-17T14:28:54.369471+05:00",
+    "Description": "Breakfast at Cafe",
+    "Amount": 10,
+    "Category": "Food"
+  },
+  {
+    "Id": 2,
+    "Date": "2025-11-17T14:28:55.057618+05:00",
+    "Description": "Lunch",
+    "Amount": 15,
+    "Category": "Food"
+  },
+  {
+    "Id": 3,
+    "Date": "2025-11-17T14:28:55.693236+05:00",
+    "Description": "Gas",
+    "Amount": 50,
+    "Category": "Transportation"
+  },
+  {
+    "Id": 5,
+    "Date": "2025-11-17T14:28:56.966715+05:00",
+    "Description": "Groceries",
+    "Amount": 120,
+    "Category": "Food"
+  },
+  {
+    "Id": 6,
+    "Date": "2025-11-17T14:47:34.961239+05:00",
+    "Description": "Lunch",
+    "Amount": 20,
+    "Category": "General"
+  },
+  {
+    "Id": 7,
+    "Date": "2025-11-17T14:47:35.671498+05:00",
+    "Description": "Groceries",
+    "Amount": 50,
+    "Category": "Food"
+  }
+]

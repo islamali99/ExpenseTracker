@@ -1,0 +1,15 @@
+/Users/mac/ExpenseTracker/bin/Debug/net9.0/ExpenseTracker
+/Users/mac/ExpenseTracker/bin/Debug/net9.0/ExpenseTracker.deps.json
+/Users/mac/ExpenseTracker/bin/Debug/net9.0/ExpenseTracker.runtimeconfig.json
+/Users/mac/ExpenseTracker/bin/Debug/net9.0/ExpenseTracker.dll
+/Users/mac/ExpenseTracker/bin/Debug/net9.0/ExpenseTracker.pdb
+/Users/mac/ExpenseTracker/obj/Debug/net9.0/ExpenseTracker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/ExpenseTracker/obj/Debug/net9.0/ExpenseTracker.AssemblyInfoInputs.cache
+/Users/mac/ExpenseTracker/obj/Debug/net9.0/ExpenseTracker.AssemblyInfo.cs
+/Users/mac/ExpenseTracker/obj/Debug/net9.0/ExpenseTracker.csproj.CoreCompileInputs.cache
+/Users/mac/ExpenseTracker/obj/Debug/net9.0/ExpenseTracker.dll
+/Users/mac/ExpenseTracker/obj/Debug/net9.0/refint/ExpenseTracker.dll
+/Users/mac/ExpenseTracker/obj/Debug/net9.0/ExpenseTracker.pdb
+/Users/mac/ExpenseTracker/obj/Debug/net9.0/ExpenseTracker.genruntimeconfig.cache
+/Users/mac/ExpenseTracker/obj/Debug/net9.0/ref/ExpenseTracker.dll
+/Users/mac/ExpenseTracker/obj/Debug/net9.0/ExpenseTracker.sourcelink.json

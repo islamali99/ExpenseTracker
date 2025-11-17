@@ -1,0 +1,12 @@
+#!/bin/bash
+
+# Expense Tracker CLI Wrapper Script
+# This script allows running the expense tracker with a simpler command
+
+set -e
+
+# Get the directory where this script is located
+SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+
+# Run the application with passed arguments
+dotnet run --project "$SCRIPT_DIR/ExpenseTracker.csproj" -- "$@"

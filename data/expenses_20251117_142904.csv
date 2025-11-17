@@ -1,0 +1,5 @@
+ID,Date,Description,Amount,Category
+1,2025-11-17,"Breakfast at Cafe",10,00,Food
+2,2025-11-17,"Lunch",15,00,Food
+3,2025-11-17,"Gas",50,00,Transportation
+5,2025-11-17,"Groceries",120,00,Food
